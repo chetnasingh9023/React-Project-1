@@ -19,7 +19,7 @@ function Home() {
     <div className="container mt-4">
 
      
-        <h4>Enter your girlfriend name</h4>
+        <h4>Enter your  name</h4>
       <input 
       style={{ width: 300,height: 40 }}
          placeholder="Enter Your name"
